@@ -53,7 +53,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ormbase',
         'USER': 'postgres',
-        'PASSWORD': 'Alandako1616',
+        'PASSWORD': '',
     }
 }
 
